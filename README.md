@@ -1,30 +1,29 @@
-#YouTube_Clone_App
+# Youtube Clone App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Youtube clone app built using [React](https://reactjs.org/) It allows users to browse and watch videos from a curated list.
 
-## Available Scripts
+![Demo](demo.gif)
 
-In the project directory, you can run:
+## Live Demo
 
-### `npm start`
+You can try out the live demo [here](https://youtubegokul.netlify.app/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshots
+<a href="https://ibb.co/vjdBcsB"><img src="https://i.ibb.co/Jspdcxd/Youtube-Clone-Google-Chrome-05-10-2023-23-48-06.png" alt="Youtube-Clone-Google-Chrome-05-10-2023-23-48-06" border="0"></a>
+<a href="https://ibb.co/Hx5Qh0y"><img src="https://i.ibb.co/dL8ymSv/Youtube-Clone-Google-Chrome-05-10-2023-23-48-17.png" alt="Youtube-Clone-Google-Chrome-05-10-2023-23-48-17" border="0"></a>
+<a href="https://ibb.co/fXHTstq"><img src="https://i.ibb.co/2FdpTPW/Youtube-Clone-Google-Chrome-05-10-2023-23-48-31.png" alt="Youtube-Clone-Google-Chrome-05-10-2023-23-48-31" border="0"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Browse and watch videos.
+- Search for specific videos.
+-  Media Player using react video player
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+To run this project locally, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/GOKUL8978/Youtube_Clone_App.git
