@@ -1,4 +1,4 @@
-# Youtube Clone App
+# Video Streaming App
 
 This is a simple Youtube clone app built using [React](https://reactjs.org/) It allows users to browse and watch videos from a curated list.
 
@@ -26,4 +26,4 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/GOKUL8978/Youtube_Clone_App.git
+git clone https://github.com/GOKUL8978/VIdeo_Straming_App.git
